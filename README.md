@@ -38,7 +38,9 @@ spicetify apply
 
 **Put in terminal**
 
-`iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex`
+```javascript
+    iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex
+```
 
 
 ## **Linux and MacOS**
@@ -46,4 +48,6 @@ spicetify apply
 
 **Put in terminal**
 
-`curl -fsSL https://raw.githubusercontent.com/spicetify/cli/main/install.sh | sh`
+```javascript
+    curl -fsSL https://raw.githubusercontent.com/spicetify/cli/main/install.sh | sh
+```
