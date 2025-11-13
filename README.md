@@ -7,10 +7,10 @@ spicetify theme for spotify
 ![Preview](./images/mainmenu.png)
 
 ## Search
-![Preview](search.png)
+![Preview](./images/search.png)
 
 ## Vocal
-![Preview](text.png)
+![Preview](./images/text.png)
 
 ## Album
-![Preview](music\\album.png)
+![Preview](./images/music\\album.png)
