@@ -22,4 +22,26 @@ spicetify theme for spotify
 ### and change 
 ### `current_theme = nightlabe`
 
+## write this in terminal
+
 `spicetify apply`
+
+### (you can change your theme color in `color.ini` more in `color.ini` file...)
+
+# download spicetify
+
+## **Windows**
+
+**Powershell (pre-built binary) - Recommended**
+
+**Put in terminal**
+
+`iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex`
+
+
+## **Linux and MacOS**
+**Shell (pre-built binary) - Recommended**
+
+**Put in terminal**
+
+`curl -fsSL https://raw.githubusercontent.com/spicetify/cli/main/install.sh | sh`
