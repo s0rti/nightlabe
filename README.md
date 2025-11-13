@@ -12,5 +12,14 @@ spicetify theme for spotify
 ## Vocal
 ![Preview](./images/text.png)
 
-## Album
-![Preview](./images/music\\album.png)
+# How to download theme
+
+
+### Open `C:\Users\USERNAME\.spicetify\Themes` **OR** `~/.config/spicetify/Themes` and create folder nightlabe and 
+### 
+#### **Put in** `color.ini` **and** `user.css`
+### after open `C:\Users\USERNAME\.spicetify\Themes` **OR** `~/.config/spicetify/config-xpui.ini ` 
+### and change 
+### `current_theme = nightlabe`
+
+`spicetify apply`
