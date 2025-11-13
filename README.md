@@ -24,7 +24,9 @@ spicetify theme for spotify
 
 ## write this in terminal
 
-`spicetify apply`
+```javascript
+spicetify apply
+```
 
 ### (you can change your theme color in `color.ini` more in `color.ini` file...)
 
