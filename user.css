@@ -745,11 +745,11 @@ input:checked~.x-toggle-indicatorWrapper .x-toggle-indicator {
 /*- fixed shadow of sections -*/
 .K9MVLAI8oad6VYdMtUJD:after {
   background: linear-gradient(90deg, hsl(234.84deg 21.3% 6.79% / 66%) 0, #e31b1b00 100%) !important;
+  animation-direction: normal !important;
 }
 
 .K9MVLAI8oad6VYdMtUJD::before {
   background: linear-gradient(90deg, hsl(234.84deg 21.3% 6.79% / 66%) 0, #e31b1b00 100%) !important;
-  animation-direction: normal !important;
 }
 
 /*------------------------------------------*/
