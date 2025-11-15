@@ -747,6 +747,7 @@ input:checked~.x-toggle-indicatorWrapper .x-toggle-indicator {
 
 .K9MVLAI8oad6VYdMtUJD::before {
   background: linear-gradient(90deg, hsl(234.84deg 21.3% 6.79% / 66%) 0, #e31b1b00 100%) !important;
+  animation-direction: normal !important;
 }
 
 .Root__right-sidebar {
@@ -805,12 +806,26 @@ input:checked~.x-toggle-indicatorWrapper .x-toggle-indicator {
   height: 99% !important;
 }
 
-.main-yourLibraryX-libraryContainer{
+.main-yourLibraryX-libraryContainer {
   background-color: transparent !important;
 }
+
 .main-yourLibraryX-entryPoints {
   background-color: transparent !important;
 }
-.Uw4tcZdmh7s4BMdgCCuu{
+
+.Uw4tcZdmh7s4BMdgCCuu {
   background-color: #0008174a !important;
+}
+
+.jHt3xA6ovwVKkMJKqOhO {
+  background-color: #0b0e1496 !important;
+}
+
+.x-filterBox-filterInput{
+    background-color: #0b0e1496 !important;
+}
+
+.ydcgD0V4w7dneQxhyJtF{
+  background-color: #07090e30 !important;
 }
