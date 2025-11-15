@@ -739,8 +739,10 @@ input:checked~.x-toggle-indicatorWrapper .x-toggle-indicator {
   right: 4px;
 }
 
-/*-----my code-----*/
+/*----------*/
 
+
+/*- fixed shadow of sections -*/
 .K9MVLAI8oad6VYdMtUJD:after {
   background: linear-gradient(90deg, hsl(234.84deg 21.3% 6.79% / 66%) 0, #e31b1b00 100%) !important;
 }
@@ -750,9 +752,14 @@ input:checked~.x-toggle-indicatorWrapper .x-toggle-indicator {
   animation-direction: normal !important;
 }
 
+/*------------------------------------------*/
+
+
 .Root__right-sidebar {
   margin-bottom: 10px !important;
 }
+
+/*- top header of main home-*/
 
 .main-home-filterChipsSection {
   background-color: #2e35488f !important;
@@ -761,6 +768,8 @@ input:checked~.x-toggle-indicatorWrapper .x-toggle-indicator {
   border-bottom-left-radius: 15px !important;
   border-bottom-right-radius: 15px !important;
 }
+
+/*------------------*/
 
 .main-view-container__scroll-node,
 .mpdgC9UTkN5_fMm1pFiz {
@@ -771,12 +780,6 @@ input:checked~.x-toggle-indicatorWrapper .x-toggle-indicator {
 
 .spicy-dynamic-bg-in-this {
   border-radius: 15px !important;
-}
-
-@font-face {
-  font-family: 'MomoTrustDisplay-Regular';
-  src: url('MomoTrustDisplay-Regular.ttf');
-  font-weight: 400;
 }
 
 .main-contextMenu-menu {
@@ -790,6 +793,8 @@ input:checked~.x-toggle-indicatorWrapper .x-toggle-indicator {
   backdrop-filter: blur(6px) !important;
   margin: 5px !important;
 }
+
+/*- sidebar settings -*/
 
 .znOINyqAy7ivIGbQyrbt {
   backdrop-filter: blur(15px) !important;
@@ -805,6 +810,10 @@ input:checked~.x-toggle-indicatorWrapper .x-toggle-indicator {
   transition: left 0.7s ease, opacity 0.7s ease;
   height: 99% !important;
 }
+
+/*--------------------------------------------------*/
+
+/*- settings of card like add to favourite -*/
 
 .main-yourLibraryX-libraryContainer {
   background-color: transparent !important;
@@ -822,10 +831,61 @@ input:checked~.x-toggle-indicatorWrapper .x-toggle-indicator {
   background-color: #0b0e1496 !important;
 }
 
-.x-filterBox-filterInput{
-    background-color: #0b0e1496 !important;
+.x-filterBox-filterInput {
+  background-color: #0b0e1496 !important;
 }
 
-.ydcgD0V4w7dneQxhyJtF{
+.ydcgD0V4w7dneQxhyJtF {
   background-color: #07090e30 !important;
+}
+
+.main-cardImage-imageWrapper {
+  background-color: transparent !important;
+  --card-color: transparent !important;
+}
+
+/*-----------------------------------------------*/
+
+/*- play button on playlist -*/
+
+.encore-dark-theme .encore-bright-accent-set {
+  --background-base: #37373745 !important;
+  backdrop-filter: blur(4px) !important;
+  --text-base: #efefef !important;
+  --background-highlight: #30303021 !important;
+  --background-press: #30303021 !important;
+  border: 2px solid #71717103 !important;
+}
+
+/*--------------------------------------------------*/
+
+/*- toggle -*/
+
+.qvQ5XZ0UUNW0rEn9y1Mf {
+  background: #37373745 !important;
+  backdrop-filter: blur(4px) !important;
+  padding: 5px;
+  border-radius: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.Button-buttonTertiary-large-iconOnly-useBrowserDefaultFocusStyle-condensed {
+  color: white !important;
+}
+
+.Button-buttonTertiary-textSubdued-large-iconOnly-useBrowserDefaultFocusStyle-condensed {
+  color: white !important;
+}
+
+.ARSbx0SA65V5vol27FS4.main-trackList-trackListHeader {
+  background-color: #1a1e298f !important;
+  border-radius: 10px;
+  border-bottom: 0px solid black !important;
+  height: 50px !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  backdrop-filter: blur(6px) !important;
+
 }
